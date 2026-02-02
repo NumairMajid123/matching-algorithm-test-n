@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 151,
+    "price_per_month": "45060"
+  },
+  {
+    "id": 2,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 427,
+    "price_per_month": "37369"
+  },
+  {
+    "id": 3,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 266,
+    "price_per_month": "19653"
+  },
+  {
+    "id": 4,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 169,
+    "price_per_month": "91100"
+  },
+  {
+    "id": 5,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 151,
+    "price_per_month": "117778"
+  },
+  {
+    "id": 6,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 259,
+    "price_per_month": "91793"
+  },
+  {
+    "id": 7,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 407,
+    "price_per_month": "75966"
+  },
+  {
+    "id": 8,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 140,
+    "price_per_month": "115586"
+  },
+  {
+    "id": 9,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 244,
+    "price_per_month": "33557"
+  },
+  {
+    "id": 10,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 165,
+    "price_per_month": "23222"
+  },
+  {
+    "id": 11,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1988,
+    "price_per_month": "55906"
+  },
+  {
+    "id": 12,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1798,
+    "price_per_month": "93322"
+  },
+  {
+    "id": 13,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1542,
+    "price_per_month": "14866"
+  },
+  {
+    "id": 14,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1683,
+    "price_per_month": "44237"
+  },
+  {
+    "id": 15,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 244,
+    "price_per_month": "58862"
+  },
+  {
+    "id": 16,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 433,
+    "price_per_month": "59340"
+  },
+  {
+    "id": 17,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 186,
+    "price_per_month": "108157"
+  },
+  {
+    "id": 18,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 450,
+    "price_per_month": "79020"
+  },
+  {
+    "id": 19,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 244,
+    "price_per_month": "59507"
+  },
+  {
+    "id": 20,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 216,
+    "price_per_month": "126390"
+  },
+  {
+    "id": 21,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 462,
+    "price_per_month": "62919"
+  },
+  {
+    "id": 22,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 138,
+    "price_per_month": "89496"
+  },
+  {
+    "id": 23,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 305,
+    "price_per_month": "74373"
+  },
+  {
+    "id": 24,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 121,
+    "price_per_month": "56522"
+  },
+  {
+    "id": 25,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1629,
+    "price_per_month": "88641"
+  },
+  {
+    "id": 26,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 841,
+    "price_per_month": "36012"
+  },
+  {
+    "id": 27,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 286,
+    "price_per_month": "12971"
+  },
+  {
+    "id": 28,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 131,
+    "price_per_month": "125735"
+  },
+  {
+    "id": 29,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 888,
+    "price_per_month": "64782"
+  },
+  {
+    "id": 30,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 158,
+    "price_per_month": "82700"
+  },
+  {
+    "id": 31,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 334,
+    "price_per_month": "103150"
+  },
+  {
+    "id": 32,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 204,
+    "price_per_month": "29429"
+  },
+  {
+    "id": 33,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 262,
+    "price_per_month": "14740"
+  },
+  {
+    "id": 34,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1139,
+    "price_per_month": "23836"
+  },
+  {
+    "id": 35,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1347,
+    "price_per_month": "33575"
+  },
+  {
+    "id": 36,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 30,
+    "price_per_month": "93814"
+  },
+  {
+    "id": 37,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 87,
+    "price_per_month": "62614"
+  },
+  {
+    "id": 38,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 173,
+    "price_per_month": "139377"
+  },
+  {
+    "id": 39,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 424,
+    "price_per_month": "79832"
+  },
+  {
+    "id": 40,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 362,
+    "price_per_month": "99261"
+  },
+  {
+    "id": 41,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 642,
+    "price_per_month": "84101"
+  },
+  {
+    "id": 42,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 132,
+    "price_per_month": "108554"
+  },
+  {
+    "id": 43,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 221,
+    "price_per_month": "75901"
+  },
+  {
+    "id": 44,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 156,
+    "price_per_month": "40500"
+  },
+  {
+    "id": 45,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 147,
+    "price_per_month": "90736"
+  },
+  {
+    "id": 46,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 412,
+    "price_per_month": "98683"
+  },
+  {
+    "id": 47,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 66,
+    "price_per_month": "133087"
+  },
+  {
+    "id": 48,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 171,
+    "price_per_month": "59453"
+  },
+  {
+    "id": 49,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 117,
+    "price_per_month": "119166"
+  },
+  {
+    "id": 50,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 597,
+    "price_per_month": "73662"
+  },
+  {
+    "id": 51,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 99,
+    "price_per_month": "108436"
+  },
+  {
+    "id": 52,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 240,
+    "price_per_month": "72100"
+  },
+  {
+    "id": 53,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1423,
+    "price_per_month": "18892"
+  },
+  {
+    "id": 54,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 203,
+    "price_per_month": "116725"
+  },
+  {
+    "id": 55,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 147,
+    "price_per_month": "92642"
+  },
+  {
+    "id": 56,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 143,
+    "price_per_month": "59088"
+  },
+  {
+    "id": 57,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 276,
+    "price_per_month": "129925"
+  },
+  {
+    "id": 58,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 383,
+    "price_per_month": "86096"
+  },
+  {
+    "id": 59,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 135,
+    "price_per_month": "76225"
+  },
+  {
+    "id": 60,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 235,
+    "price_per_month": "20382"
+  },
+  {
+    "id": 61,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 229,
+    "price_per_month": "52214"
+  },
+  {
+    "id": 62,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 279,
+    "price_per_month": "33400"
+  },
+  {
+    "id": 63,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 59,
+    "price_per_month": "94797"
+  },
+  {
+    "id": 64,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 210,
+    "price_per_month": "23313"
+  },
+  {
+    "id": 65,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1129,
+    "price_per_month": "77194"
+  },
+  {
+    "id": 66,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 91,
+    "price_per_month": "129631"
+  },
+  {
+    "id": 67,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 84,
+    "price_per_month": "107354"
+  },
+  {
+    "id": 68,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 156,
+    "price_per_month": "95620"
+  },
+  {
+    "id": 69,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 91,
+    "price_per_month": "79510"
+  },
+  {
+    "id": 70,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 747,
+    "price_per_month": "42525"
+  },
+  {
+    "id": 71,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 743,
+    "price_per_month": "40636"
+  },
+  {
+    "id": 72,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 183,
+    "price_per_month": "75109"
+  },
+  {
+    "id": 73,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 284,
+    "price_per_month": "105640"
+  },
+  {
+    "id": 74,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 325,
+    "price_per_month": "51226"
+  },
+  {
+    "id": 75,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 208,
+    "price_per_month": "23018"
+  },
+  {
+    "id": 76,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 110,
+    "price_per_month": "76333"
+  },
+  {
+    "id": 77,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1352,
+    "price_per_month": "99383"
+  },
+  {
+    "id": 78,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 468,
+    "price_per_month": "92597"
+  },
+  {
+    "id": 79,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1898,
+    "price_per_month": "26934"
+  },
+  {
+    "id": 80,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 430,
+    "price_per_month": "90058"
+  },
+  {
+    "id": 81,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 137,
+    "price_per_month": "109675"
+  },
+  {
+    "id": 82,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 374,
+    "price_per_month": "131117"
+  },
+  {
+    "id": 83,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 614,
+    "price_per_month": "13170"
+  },
+  {
+    "id": 84,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1798,
+    "price_per_month": "41987"
+  },
+  {
+    "id": 85,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 444,
+    "price_per_month": "36437"
+  },
+  {
+    "id": 86,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 276,
+    "price_per_month": "94316"
+  },
+  {
+    "id": 87,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 329,
+    "price_per_month": "17304"
+  },
+  {
+    "id": 88,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1809,
+    "price_per_month": "62936"
+  },
+  {
+    "id": 89,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 980,
+    "price_per_month": "22389"
+  },
+  {
+    "id": 90,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 50,
+    "price_per_month": "60339"
+  },
+  {
+    "id": 91,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1465,
+    "price_per_month": "24267"
+  },
+  {
+    "id": 92,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1371,
+    "price_per_month": "29135"
+  },
+  {
+    "id": 93,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 261,
+    "price_per_month": "21186"
+  },
+  {
+    "id": 94,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1702,
+    "price_per_month": "63029"
+  },
+  {
+    "id": 95,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 85,
+    "price_per_month": "60774"
+  },
+  {
+    "id": 96,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 132,
+    "price_per_month": "76060"
+  },
+  {
+    "id": 97,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 144,
+    "price_per_month": "16265"
+  },
+  {
+    "id": 98,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 172,
+    "price_per_month": "23672"
+  },
+  {
+    "id": 99,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 290,
+    "price_per_month": "71171"
+  },
+  {
+    "id": 100,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 89,
+    "price_per_month": "47162"
+  },
+  {
+    "id": 101,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 178,
+    "price_per_month": "28982"
+  },
+  {
+    "id": 102,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 190,
+    "price_per_month": "77131"
+  },
+  {
+    "id": 103,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 888,
+    "price_per_month": "83688"
+  },
+  {
+    "id": 104,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 253,
+    "price_per_month": "18739"
+  },
+  {
+    "id": 105,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1573,
+    "price_per_month": "96128"
+  },
+  {
+    "id": 106,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 65,
+    "price_per_month": "102471"
+  },
+  {
+    "id": 107,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1458,
+    "price_per_month": "26254"
+  },
+  {
+    "id": 108,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1465,
+    "price_per_month": "63872"
+  },
+  {
+    "id": 109,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 181,
+    "price_per_month": "84752"
+  },
+  {
+    "id": 110,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 390,
+    "price_per_month": "144466"
+  },
+  {
+    "id": 111,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1948,
+    "price_per_month": "37134"
+  },
+  {
+    "id": 112,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 30,
+    "price_per_month": "54529"
+  },
+  {
+    "id": 113,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 452,
+    "price_per_month": "100958"
+  },
+  {
+    "id": 114,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1052,
+    "price_per_month": "70149"
+  },
+  {
+    "id": 115,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1146,
+    "price_per_month": "69801"
+  },
+  {
+    "id": 116,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 681,
+    "price_per_month": "78052"
+  },
+  {
+    "id": 117,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 394,
+    "price_per_month": "59367"
+  },
+  {
+    "id": 118,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 62,
+    "price_per_month": "25068"
+  },
+  {
+    "id": 119,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 67,
+    "price_per_month": "76482"
+  },
+  {
+    "id": 120,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 498,
+    "price_per_month": "63427"
+  },
+  {
+    "id": 121,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 105,
+    "price_per_month": "96080"
+  },
+  {
+    "id": 122,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 162,
+    "price_per_month": "46539"
+  },
+  {
+    "id": 123,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 157,
+    "price_per_month": "33384"
+  },
+  {
+    "id": 124,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 391,
+    "price_per_month": "93773"
+  },
+  {
+    "id": 125,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1646,
+    "price_per_month": "71278"
+  },
+  {
+    "id": 126,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 258,
+    "price_per_month": "38638"
+  },
+  {
+    "id": 127,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 156,
+    "price_per_month": "98122"
+  },
+  {
+    "id": 128,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1383,
+    "price_per_month": "40857"
+  },
+  {
+    "id": 129,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 176,
+    "price_per_month": "45186"
+  },
+  {
+    "id": 130,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 71,
+    "price_per_month": "30607"
+  },
+  {
+    "id": 131,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 405,
+    "price_per_month": "38533"
+  },
+  {
+    "id": 132,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 258,
+    "price_per_month": "67259"
+  },
+  {
+    "id": 133,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 61,
+    "price_per_month": "43993"
+  },
+  {
+    "id": 134,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 40,
+    "price_per_month": "119780"
+  },
+  {
+    "id": 135,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 33,
+    "price_per_month": "60997"
+  },
+  {
+    "id": 136,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 142,
+    "price_per_month": "77588"
+  },
+  {
+    "id": 137,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 278,
+    "price_per_month": "20175"
+  },
+  {
+    "id": 138,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 237,
+    "price_per_month": "107623"
+  },
+  {
+    "id": 139,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 43,
+    "price_per_month": "71342"
+  },
+  {
+    "id": 140,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 155,
+    "price_per_month": "23025"
+  },
+  {
+    "id": 141,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 143,
+    "price_per_month": "25852"
+  },
+  {
+    "id": 142,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 138,
+    "price_per_month": "74953"
+  },
+  {
+    "id": 143,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 172,
+    "price_per_month": "115473"
+  },
+  {
+    "id": 144,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 270,
+    "price_per_month": "21377"
+  },
+  {
+    "id": 145,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 164,
+    "price_per_month": "101339"
+  },
+  {
+    "id": 146,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1644,
+    "price_per_month": "13118"
+  },
+  {
+    "id": 147,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 368,
+    "price_per_month": "38881"
+  },
+  {
+    "id": 148,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 392,
+    "price_per_month": "39233"
+  },
+  {
+    "id": 149,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 408,
+    "price_per_month": "54629"
+  },
+  {
+    "id": 150,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 360,
+    "price_per_month": "143194"
+  },
+  {
+    "id": 151,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 105,
+    "price_per_month": "91269"
+  },
+  {
+    "id": 152,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 222,
+    "price_per_month": "65239"
+  },
+  {
+    "id": 153,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 403,
+    "price_per_month": "127842"
+  },
+  {
+    "id": 154,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 445,
+    "price_per_month": "64366"
+  },
+  {
+    "id": 155,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 450,
+    "price_per_month": "26071"
+  },
+  {
+    "id": 156,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1454,
+    "price_per_month": "54700"
+  },
+  {
+    "id": 157,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 798,
+    "price_per_month": "13540"
+  },
+  {
+    "id": 158,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 251,
+    "price_per_month": "65004"
+  },
+  {
+    "id": 159,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 991,
+    "price_per_month": "36634"
+  },
+  {
+    "id": 160,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1361,
+    "price_per_month": "83460"
+  },
+  {
+    "id": 161,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 167,
+    "price_per_month": "56267"
+  },
+  {
+    "id": 162,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 280,
+    "price_per_month": "54576"
+  },
+  {
+    "id": 163,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1468,
+    "price_per_month": "60185"
+  },
+  {
+    "id": 164,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 485,
+    "price_per_month": "60579"
+  },
+  {
+    "id": 165,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 211,
+    "price_per_month": "118805"
+  },
+  {
+    "id": 166,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 171,
+    "price_per_month": "83014"
+  },
+  {
+    "id": 167,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 275,
+    "price_per_month": "43293"
+  },
+  {
+    "id": 168,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 153,
+    "price_per_month": "108319"
+  },
+  {
+    "id": 169,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1105,
+    "price_per_month": "64025"
+  },
+  {
+    "id": 170,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 163,
+    "price_per_month": "71991"
+  },
+  {
+    "id": 171,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 218,
+    "price_per_month": "81099"
+  },
+  {
+    "id": 172,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 971,
+    "price_per_month": "82559"
+  },
+  {
+    "id": 173,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 262,
+    "price_per_month": "50532"
+  },
+  {
+    "id": 174,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 91,
+    "price_per_month": "107695"
+  },
+  {
+    "id": 175,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 124,
+    "price_per_month": "38650"
+  },
+  {
+    "id": 176,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 666,
+    "price_per_month": "90873"
+  },
+  {
+    "id": 177,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 305,
+    "price_per_month": "35296"
+  },
+  {
+    "id": 178,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 141,
+    "price_per_month": "54849"
+  },
+  {
+    "id": 179,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 359,
+    "price_per_month": "41699"
+  },
+  {
+    "id": 180,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 199,
+    "price_per_month": "108479"
+  },
+  {
+    "id": 181,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 310,
+    "price_per_month": "16012"
+  },
+  {
+    "id": 182,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 275,
+    "price_per_month": "73315"
+  },
+  {
+    "id": 183,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 179,
+    "price_per_month": "146174"
+  },
+  {
+    "id": 184,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 255,
+    "price_per_month": "80667"
+  },
+  {
+    "id": 185,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1505,
+    "price_per_month": "14511"
+  },
+  {
+    "id": 186,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 205,
+    "price_per_month": "30230"
+  },
+  {
+    "id": 187,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 441,
+    "price_per_month": "79481"
+  },
+  {
+    "id": 188,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 562,
+    "price_per_month": "79726"
+  },
+  {
+    "id": 189,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 182,
+    "price_per_month": "94164"
+  },
+  {
+    "id": 190,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 60,
+    "price_per_month": "91530"
+  },
+  {
+    "id": 191,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 158,
+    "price_per_month": "51017"
+  },
+  {
+    "id": 192,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 138,
+    "price_per_month": "88579"
+  },
+  {
+    "id": 193,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 259,
+    "price_per_month": "83777"
+  },
+  {
+    "id": 194,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 46,
+    "price_per_month": "45060"
+  },
+  {
+    "id": 195,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1539,
+    "price_per_month": "65676"
+  },
+  {
+    "id": 196,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1992,
+    "price_per_month": "49338"
+  },
+  {
+    "id": 197,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 970,
+    "price_per_month": "28965"
+  },
+  {
+    "id": 198,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 126,
+    "price_per_month": "138419"
+  },
+  {
+    "id": 199,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 80,
+    "price_per_month": "41786"
+  },
+  {
+    "id": 200,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1788,
+    "price_per_month": "84335"
+  },
+  {
+    "id": 201,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 269,
+    "price_per_month": "105248"
+  },
+  {
+    "id": 202,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 657,
+    "price_per_month": "79444"
+  },
+  {
+    "id": 203,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 71,
+    "price_per_month": "89038"
+  },
+  {
+    "id": 204,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 195,
+    "price_per_month": "93231"
+  },
+  {
+    "id": 205,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 167,
+    "price_per_month": "150503"
+  },
+  {
+    "id": 206,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1666,
+    "price_per_month": "97532"
+  },
+  {
+    "id": 207,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1662,
+    "price_per_month": "35670"
+  },
+  {
+    "id": 208,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1005,
+    "price_per_month": "44431"
+  },
+  {
+    "id": 209,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1400,
+    "price_per_month": "70945"
+  },
+  {
+    "id": 210,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 239,
+    "price_per_month": "58947"
+  },
+  {
+    "id": 211,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1856,
+    "price_per_month": "31482"
+  },
+  {
+    "id": 212,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 283,
+    "price_per_month": "54338"
+  },
+  {
+    "id": 213,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1031,
+    "price_per_month": "21695"
+  },
+  {
+    "id": 214,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 89,
+    "price_per_month": "117881"
+  },
+  {
+    "id": 215,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1446,
+    "price_per_month": "83687"
+  },
+  {
+    "id": 216,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 126,
+    "price_per_month": "83879"
+  },
+  {
+    "id": 217,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1380,
+    "price_per_month": "63784"
+  },
+  {
+    "id": 218,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 331,
+    "price_per_month": "36891"
+  },
+  {
+    "id": 219,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 278,
+    "price_per_month": "26387"
+  },
+  {
+    "id": 220,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1736,
+    "price_per_month": "38959"
+  },
+  {
+    "id": 221,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 37,
+    "price_per_month": "89068"
+  },
+  {
+    "id": 222,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 480,
+    "price_per_month": "136517"
+  },
+  {
+    "id": 223,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 108,
+    "price_per_month": "80104"
+  },
+  {
+    "id": 224,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 659,
+    "price_per_month": "67364"
+  },
+  {
+    "id": 225,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 263,
+    "price_per_month": "84624"
+  },
+  {
+    "id": 226,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 290,
+    "price_per_month": "110054"
+  },
+  {
+    "id": 227,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 445,
+    "price_per_month": "125345"
+  },
+  {
+    "id": 228,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 166,
+    "price_per_month": "14970"
+  },
+  {
+    "id": 229,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1815,
+    "price_per_month": "91432"
+  },
+  {
+    "id": 230,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1872,
+    "price_per_month": "31792"
+  },
+  {
+    "id": 231,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 806,
+    "price_per_month": "57615"
+  },
+  {
+    "id": 232,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1032,
+    "price_per_month": "50266"
+  },
+  {
+    "id": 233,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1271,
+    "price_per_month": "59022"
+  },
+  {
+    "id": 234,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 192,
+    "price_per_month": "115358"
+  },
+  {
+    "id": 235,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 890,
+    "price_per_month": "94483"
+  },
+  {
+    "id": 236,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 94,
+    "price_per_month": "85505"
+  },
+  {
+    "id": 237,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 255,
+    "price_per_month": "31686"
+  },
+  {
+    "id": 238,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 103,
+    "price_per_month": "66265"
+  },
+  {
+    "id": 239,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 450,
+    "price_per_month": "146377"
+  },
+  {
+    "id": 240,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 233,
+    "price_per_month": "96490"
+  },
+  {
+    "id": 241,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 224,
+    "price_per_month": "59499"
+  },
+  {
+    "id": 242,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1364,
+    "price_per_month": "17814"
+  },
+  {
+    "id": 243,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1986,
+    "price_per_month": "46394"
+  },
+  {
+    "id": 244,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 988,
+    "price_per_month": "19549"
+  },
+  {
+    "id": 245,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 183,
+    "price_per_month": "14547"
+  },
+  {
+    "id": 246,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 180,
+    "price_per_month": "63125"
+  },
+  {
+    "id": 247,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 155,
+    "price_per_month": "86372"
+  },
+  {
+    "id": 248,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1723,
+    "price_per_month": "31385"
+  },
+  {
+    "id": 249,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 362,
+    "price_per_month": "135409"
+  },
+  {
+    "id": 250,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 593,
+    "price_per_month": "79784"
+  },
+  {
+    "id": 251,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 286,
+    "price_per_month": "102772"
+  },
+  {
+    "id": 252,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 34,
+    "price_per_month": "75693"
+  },
+  {
+    "id": 253,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 423,
+    "price_per_month": "21918"
+  },
+  {
+    "id": 254,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 183,
+    "price_per_month": "100697"
+  },
+  {
+    "id": 255,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1035,
+    "price_per_month": "47862"
+  },
+  {
+    "id": 256,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 84,
+    "price_per_month": "47339"
+  },
+  {
+    "id": 257,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1277,
+    "price_per_month": "48617"
+  },
+  {
+    "id": 258,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 252,
+    "price_per_month": "51108"
+  },
+  {
+    "id": 259,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1693,
+    "price_per_month": "21363"
+  },
+  {
+    "id": 260,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1805,
+    "price_per_month": "46282"
+  },
+  {
+    "id": 261,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 548,
+    "price_per_month": "91557"
+  },
+  {
+    "id": 262,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1488,
+    "price_per_month": "93640"
+  },
+  {
+    "id": 263,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1950,
+    "price_per_month": "87887"
+  },
+  {
+    "id": 264,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 47,
+    "price_per_month": "91942"
+  },
+  {
+    "id": 265,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 284,
+    "price_per_month": "49032"
+  },
+  {
+    "id": 266,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 459,
+    "price_per_month": "33483"
+  },
+  {
+    "id": 267,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1187,
+    "price_per_month": "75236"
+  },
+  {
+    "id": 268,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 472,
+    "price_per_month": "146650"
+  },
+  {
+    "id": 269,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 203,
+    "price_per_month": "32768"
+  },
+  {
+    "id": 270,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 436,
+    "price_per_month": "145377"
+  },
+  {
+    "id": 271,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1481,
+    "price_per_month": "66220"
+  },
+  {
+    "id": 272,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 232,
+    "price_per_month": "16156"
+  },
+  {
+    "id": 273,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1031,
+    "price_per_month": "57606"
+  },
+  {
+    "id": 274,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1784,
+    "price_per_month": "94781"
+  },
+  {
+    "id": 275,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 169,
+    "price_per_month": "77207"
+  },
+  {
+    "id": 276,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 771,
+    "price_per_month": "88590"
+  },
+  {
+    "id": 277,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1401,
+    "price_per_month": "70803"
+  },
+  {
+    "id": 278,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 338,
+    "price_per_month": "24062"
+  },
+  {
+    "id": 279,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 302,
+    "price_per_month": "31812"
+  },
+  {
+    "id": 280,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 119,
+    "price_per_month": "73372"
+  },
+  {
+    "id": 281,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 244,
+    "price_per_month": "89514"
+  },
+  {
+    "id": 282,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 80,
+    "price_per_month": "80825"
+  },
+  {
+    "id": 283,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 219,
+    "price_per_month": "45741"
+  },
+  {
+    "id": 284,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 215,
+    "price_per_month": "29040"
+  },
+  {
+    "id": 285,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 834,
+    "price_per_month": "19459"
+  },
+  {
+    "id": 286,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 92,
+    "price_per_month": "71101"
+  },
+  {
+    "id": 287,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1414,
+    "price_per_month": "98602"
+  },
+  {
+    "id": 288,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 452,
+    "price_per_month": "62703"
+  },
+  {
+    "id": 289,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 155,
+    "price_per_month": "33072"
+  },
+  {
+    "id": 290,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 160,
+    "price_per_month": "125385"
+  },
+  {
+    "id": 291,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 31,
+    "price_per_month": "48712"
+  },
+  {
+    "id": 292,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 178,
+    "price_per_month": "122520"
+  },
+  {
+    "id": 293,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 493,
+    "price_per_month": "20538"
+  },
+  {
+    "id": 294,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 454,
+    "price_per_month": "122239"
+  },
+  {
+    "id": 295,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 132,
+    "price_per_month": "32185"
+  },
+  {
+    "id": 296,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 429,
+    "price_per_month": "78795"
+  },
+  {
+    "id": 297,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 82,
+    "price_per_month": "84766"
+  },
+  {
+    "id": 298,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 85,
+    "price_per_month": "77499"
+  },
+  {
+    "id": 299,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 72,
+    "price_per_month": "118864"
+  },
+  {
+    "id": 300,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 45,
+    "price_per_month": "25819"
+  },
+  {
+    "id": 301,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 85,
+    "price_per_month": "81527"
+  },
+  {
+    "id": 302,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 214,
+    "price_per_month": "97160"
+  },
+  {
+    "id": 303,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 190,
+    "price_per_month": "106420"
+  },
+  {
+    "id": 304,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 765,
+    "price_per_month": "64712"
+  },
+  {
+    "id": 305,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1029,
+    "price_per_month": "81182"
+  },
+  {
+    "id": 306,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 88,
+    "price_per_month": "104847"
+  },
+  {
+    "id": 307,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 980,
+    "price_per_month": "67929"
+  },
+  {
+    "id": 308,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 262,
+    "price_per_month": "69077"
+  },
+  {
+    "id": 309,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 740,
+    "price_per_month": "66056"
+  },
+  {
+    "id": 310,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 866,
+    "price_per_month": "32776"
+  },
+  {
+    "id": 311,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 475,
+    "price_per_month": "27715"
+  },
+  {
+    "id": 312,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 220,
+    "price_per_month": "36169"
+  },
+  {
+    "id": 313,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 337,
+    "price_per_month": "94020"
+  },
+  {
+    "id": 314,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 941,
+    "price_per_month": "58275"
+  },
+  {
+    "id": 315,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 689,
+    "price_per_month": "88815"
+  },
+  {
+    "id": 316,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 289,
+    "price_per_month": "40419"
+  },
+  {
+    "id": 317,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 559,
+    "price_per_month": "24920"
+  },
+  {
+    "id": 318,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 335,
+    "price_per_month": "50918"
+  },
+  {
+    "id": 319,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 482,
+    "price_per_month": "97647"
+  },
+  {
+    "id": 320,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 386,
+    "price_per_month": "128100"
+  },
+  {
+    "id": 321,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 189,
+    "price_per_month": "112166"
+  },
+  {
+    "id": 322,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 33,
+    "price_per_month": "36124"
+  },
+  {
+    "id": 323,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 920,
+    "price_per_month": "16444"
+  },
+  {
+    "id": 324,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 162,
+    "price_per_month": "25717"
+  },
+  {
+    "id": 325,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 264,
+    "price_per_month": "80045"
+  },
+  {
+    "id": 326,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 209,
+    "price_per_month": "114895"
+  },
+  {
+    "id": 327,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 273,
+    "price_per_month": "14444"
+  },
+  {
+    "id": 328,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 75,
+    "price_per_month": "104674"
+  },
+  {
+    "id": 329,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 247,
+    "price_per_month": "83602"
+  },
+  {
+    "id": 330,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 169,
+    "price_per_month": "46649"
+  },
+  {
+    "id": 331,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 270,
+    "price_per_month": "34174"
+  },
+  {
+    "id": 332,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1314,
+    "price_per_month": "77416"
+  },
+  {
+    "id": 333,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 193,
+    "price_per_month": "40378"
+  },
+  {
+    "id": 334,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 115,
+    "price_per_month": "36732"
+  },
+  {
+    "id": 335,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 441,
+    "price_per_month": "53233"
+  },
+  {
+    "id": 336,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 33,
+    "price_per_month": "82248"
+  },
+  {
+    "id": 337,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 244,
+    "price_per_month": "88576"
+  },
+  {
+    "id": 338,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1806,
+    "price_per_month": "98364"
+  },
+  {
+    "id": 339,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 491,
+    "price_per_month": "112953"
+  },
+  {
+    "id": 340,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 265,
+    "price_per_month": "25334"
+  },
+  {
+    "id": 341,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1274,
+    "price_per_month": "64851"
+  },
+  {
+    "id": 342,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 237,
+    "price_per_month": "18054"
+  },
+  {
+    "id": 343,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 285,
+    "price_per_month": "129983"
+  },
+  {
+    "id": 344,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 482,
+    "price_per_month": "32861"
+  },
+  {
+    "id": 345,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 235,
+    "price_per_month": "79964"
+  },
+  {
+    "id": 346,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 203,
+    "price_per_month": "44497"
+  },
+  {
+    "id": 347,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 311,
+    "price_per_month": "99866"
+  },
+  {
+    "id": 348,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 497,
+    "price_per_month": "56545"
+  },
+  {
+    "id": 349,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1769,
+    "price_per_month": "28229"
+  },
+  {
+    "id": 350,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 181,
+    "price_per_month": "43698"
+  },
+  {
+    "id": 351,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1656,
+    "price_per_month": "92152"
+  },
+  {
+    "id": 352,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 302,
+    "price_per_month": "85047"
+  },
+  {
+    "id": 353,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1494,
+    "price_per_month": "84284"
+  },
+  {
+    "id": 354,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 409,
+    "price_per_month": "63758"
+  },
+  {
+    "id": 355,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 185,
+    "price_per_month": "118876"
+  },
+  {
+    "id": 356,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 820,
+    "price_per_month": "72712"
+  },
+  {
+    "id": 357,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 261,
+    "price_per_month": "15861"
+  },
+  {
+    "id": 358,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 69,
+    "price_per_month": "95976"
+  },
+  {
+    "id": 359,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1138,
+    "price_per_month": "62975"
+  },
+  {
+    "id": 360,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1721,
+    "price_per_month": "17744"
+  },
+  {
+    "id": 361,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 485,
+    "price_per_month": "57055"
+  },
+  {
+    "id": 362,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 107,
+    "price_per_month": "25490"
+  },
+  {
+    "id": 363,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 415,
+    "price_per_month": "34319"
+  },
+  {
+    "id": 364,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 180,
+    "price_per_month": "44644"
+  },
+  {
+    "id": 365,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 297,
+    "price_per_month": "92528"
+  },
+  {
+    "id": 366,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 174,
+    "price_per_month": "67476"
+  },
+  {
+    "id": 367,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 56,
+    "price_per_month": "118927"
+  },
+  {
+    "id": 368,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 98,
+    "price_per_month": "94466"
+  },
+  {
+    "id": 369,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 106,
+    "price_per_month": "55029"
+  },
+  {
+    "id": 370,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 389,
+    "price_per_month": "55933"
+  },
+  {
+    "id": 371,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1456,
+    "price_per_month": "58486"
+  },
+  {
+    "id": 372,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 273,
+    "price_per_month": "54734"
+  },
+  {
+    "id": 373,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 198,
+    "price_per_month": "35374"
+  },
+  {
+    "id": 374,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 393,
+    "price_per_month": "78827"
+  },
+  {
+    "id": 375,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 215,
+    "price_per_month": "53436"
+  },
+  {
+    "id": 376,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 442,
+    "price_per_month": "81881"
+  },
+  {
+    "id": 377,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 129,
+    "price_per_month": "29960"
+  },
+  {
+    "id": 378,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 444,
+    "price_per_month": "94374"
+  },
+  {
+    "id": 379,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 222,
+    "price_per_month": "132017"
+  },
+  {
+    "id": 380,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 415,
+    "price_per_month": "29228"
+  },
+  {
+    "id": 381,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1756,
+    "price_per_month": "33867"
+  },
+  {
+    "id": 382,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 236,
+    "price_per_month": "107543"
+  },
+  {
+    "id": 383,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 175,
+    "price_per_month": "115972"
+  },
+  {
+    "id": 384,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 172,
+    "price_per_month": "63246"
+  },
+  {
+    "id": 385,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 397,
+    "price_per_month": "148487"
+  },
+  {
+    "id": 386,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 174,
+    "price_per_month": "118246"
+  },
+  {
+    "id": 387,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 957,
+    "price_per_month": "29512"
+  },
+  {
+    "id": 388,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1887,
+    "price_per_month": "38622"
+  },
+  {
+    "id": 389,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1890,
+    "price_per_month": "62740"
+  },
+  {
+    "id": 390,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 483,
+    "price_per_month": "84663"
+  },
+  {
+    "id": 391,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 112,
+    "price_per_month": "53116"
+  },
+  {
+    "id": 392,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1801,
+    "price_per_month": "63842"
+  },
+  {
+    "id": 393,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 228,
+    "price_per_month": "137394"
+  },
+  {
+    "id": 394,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 232,
+    "price_per_month": "81925"
+  },
+  {
+    "id": 395,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 91,
+    "price_per_month": "67818"
+  },
+  {
+    "id": 396,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 100,
+    "price_per_month": "130485"
+  },
+  {
+    "id": 397,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 69,
+    "price_per_month": "60341"
+  },
+  {
+    "id": 398,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1654,
+    "price_per_month": "73836"
+  },
+  {
+    "id": 399,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1955,
+    "price_per_month": "15695"
+  },
+  {
+    "id": 400,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 106,
+    "price_per_month": "91907"
+  },
+  {
+    "id": 401,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 327,
+    "price_per_month": "46655"
+  },
+  {
+    "id": 402,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 54,
+    "price_per_month": "48130"
+  },
+  {
+    "id": 403,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1036,
+    "price_per_month": "15048"
+  },
+  {
+    "id": 404,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 38,
+    "price_per_month": "101274"
+  },
+  {
+    "id": 405,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1571,
+    "price_per_month": "28590"
+  },
+  {
+    "id": 406,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 210,
+    "price_per_month": "50880"
+  },
+  {
+    "id": 407,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 73,
+    "price_per_month": "84522"
+  },
+  {
+    "id": 408,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 328,
+    "price_per_month": "89812"
+  },
+  {
+    "id": 409,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 899,
+    "price_per_month": "67334"
+  },
+  {
+    "id": 410,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 864,
+    "price_per_month": "38512"
+  },
+  {
+    "id": 411,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 206,
+    "price_per_month": "43302"
+  },
+  {
+    "id": 412,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1649,
+    "price_per_month": "50768"
+  },
+  {
+    "id": 413,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 329,
+    "price_per_month": "62242"
+  },
+  {
+    "id": 414,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1524,
+    "price_per_month": "70708"
+  },
+  {
+    "id": 415,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 416,
+    "price_per_month": "124234"
+  },
+  {
+    "id": 416,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 153,
+    "price_per_month": "24009"
+  },
+  {
+    "id": 417,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 208,
+    "price_per_month": "89076"
+  },
+  {
+    "id": 418,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 618,
+    "price_per_month": "12930"
+  },
+  {
+    "id": 419,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 54,
+    "price_per_month": "101386"
+  },
+  {
+    "id": 420,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 218,
+    "price_per_month": "73825"
+  },
+  {
+    "id": 421,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1932,
+    "price_per_month": "61232"
+  },
+  {
+    "id": 422,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 404,
+    "price_per_month": "86229"
+  },
+  {
+    "id": 423,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1740,
+    "price_per_month": "22783"
+  },
+  {
+    "id": 424,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 358,
+    "price_per_month": "125741"
+  },
+  {
+    "id": 425,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 757,
+    "price_per_month": "19758"
+  },
+  {
+    "id": 426,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 181,
+    "price_per_month": "57478"
+  },
+  {
+    "id": 427,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 972,
+    "price_per_month": "34114"
+  },
+  {
+    "id": 428,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 51,
+    "price_per_month": "111041"
+  },
+  {
+    "id": 429,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 662,
+    "price_per_month": "89755"
+  },
+  {
+    "id": 430,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 376,
+    "price_per_month": "74194"
+  },
+  {
+    "id": 431,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1491,
+    "price_per_month": "26479"
+  },
+  {
+    "id": 432,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 397,
+    "price_per_month": "124587"
+  },
+  {
+    "id": 433,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 84,
+    "price_per_month": "51933"
+  },
+  {
+    "id": 434,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 46,
+    "price_per_month": "91823"
+  },
+  {
+    "id": 435,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 859,
+    "price_per_month": "61033"
+  },
+  {
+    "id": 436,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 120,
+    "price_per_month": "90409"
+  },
+  {
+    "id": 437,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 172,
+    "price_per_month": "44575"
+  },
+  {
+    "id": 438,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 145,
+    "price_per_month": "88892"
+  },
+  {
+    "id": 439,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 90,
+    "price_per_month": "48575"
+  },
+  {
+    "id": 440,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 539,
+    "price_per_month": "89877"
+  },
+  {
+    "id": 441,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 509,
+    "price_per_month": "23297"
+  },
+  {
+    "id": 442,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 138,
+    "price_per_month": "140083"
+  },
+  {
+    "id": 443,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 482,
+    "price_per_month": "149548"
+  },
+  {
+    "id": 444,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1553,
+    "price_per_month": "22522"
+  },
+  {
+    "id": 445,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1925,
+    "price_per_month": "46895"
+  },
+  {
+    "id": 446,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1999,
+    "price_per_month": "91436"
+  },
+  {
+    "id": 447,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 144,
+    "price_per_month": "29199"
+  },
+  {
+    "id": 448,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 454,
+    "price_per_month": "80182"
+  },
+  {
+    "id": 449,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 218,
+    "price_per_month": "80301"
+  },
+  {
+    "id": 450,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 94,
+    "price_per_month": "28684"
+  },
+  {
+    "id": 451,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 275,
+    "price_per_month": "85633"
+  },
+  {
+    "id": 452,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 67,
+    "price_per_month": "31620"
+  },
+  {
+    "id": 453,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1021,
+    "price_per_month": "74533"
+  },
+  {
+    "id": 454,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 123,
+    "price_per_month": "112748"
+  },
+  {
+    "id": 455,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 58,
+    "price_per_month": "34762"
+  },
+  {
+    "id": 456,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 134,
+    "price_per_month": "41515"
+  },
+  {
+    "id": 457,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 808,
+    "price_per_month": "77665"
+  },
+  {
+    "id": 458,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 150,
+    "price_per_month": "107262"
+  },
+  {
+    "id": 459,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 185,
+    "price_per_month": "99274"
+  },
+  {
+    "id": 460,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 378,
+    "price_per_month": "46799"
+  },
+  {
+    "id": 461,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 450,
+    "price_per_month": "101255"
+  },
+  {
+    "id": 462,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 51,
+    "price_per_month": "15048"
+  },
+  {
+    "id": 463,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 444,
+    "price_per_month": "94934"
+  },
+  {
+    "id": 464,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 1670,
+    "price_per_month": "86816"
+  },
+  {
+    "id": 465,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 162,
+    "price_per_month": "79216"
+  },
+  {
+    "id": 466,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 184,
+    "price_per_month": "77312"
+  },
+  {
+    "id": 467,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 709,
+    "price_per_month": "65641"
+  },
+  {
+    "id": 468,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 423,
+    "price_per_month": "69428"
+  },
+  {
+    "id": 469,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 134,
+    "price_per_month": "64528"
+  },
+  {
+    "id": 470,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 491,
+    "price_per_month": "114388"
+  },
+  {
+    "id": 471,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 916,
+    "price_per_month": "28209"
+  },
+  {
+    "id": 472,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 317,
+    "price_per_month": "50787"
+  },
+  {
+    "id": 473,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 166,
+    "price_per_month": "72990"
+  },
+  {
+    "id": 474,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 75,
+    "price_per_month": "59331"
+  },
+  {
+    "id": 475,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 608,
+    "price_per_month": "31296"
+  },
+  {
+    "id": 476,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 740,
+    "price_per_month": "32491"
+  },
+  {
+    "id": 477,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 269,
+    "price_per_month": "80428"
+  },
+  {
+    "id": 478,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 76,
+    "price_per_month": "69824"
+  },
+  {
+    "id": 479,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 140,
+    "price_per_month": "92241"
+  },
+  {
+    "id": 480,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 194,
+    "price_per_month": "89655"
+  },
+  {
+    "id": 481,
+    "property_type": "lager",
+    "city": "Malmö",
+    "square_meters": 1063,
+    "price_per_month": "51246"
+  },
+  {
+    "id": 482,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 270,
+    "price_per_month": "36888"
+  },
+  {
+    "id": 483,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1664,
+    "price_per_month": "63850"
+  },
+  {
+    "id": 484,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 76,
+    "price_per_month": "98951"
+  },
+  {
+    "id": 485,
+    "property_type": "kontor",
+    "city": "Göteborg",
+    "square_meters": 333,
+    "price_per_month": "54031"
+  },
+  {
+    "id": 486,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 260,
+    "price_per_month": "119199"
+  },
+  {
+    "id": 487,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 90,
+    "price_per_month": "28448"
+  },
+  {
+    "id": 488,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 203,
+    "price_per_month": "89106"
+  },
+  {
+    "id": 489,
+    "property_type": "kontor",
+    "city": "Stockholm",
+    "square_meters": 358,
+    "price_per_month": "88307"
+  },
+  {
+    "id": 490,
+    "property_type": "lager",
+    "city": "Stockholm",
+    "square_meters": 192,
+    "price_per_month": "12345"
+  },
+  {
+    "id": 491,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1746,
+    "price_per_month": "75602"
+  },
+  {
+    "id": 492,
+    "property_type": "butik",
+    "city": "Stockholm",
+    "square_meters": 293,
+    "price_per_month": "33694"
+  },
+  {
+    "id": 493,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 432,
+    "price_per_month": "61407"
+  },
+  {
+    "id": 494,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 1138,
+    "price_per_month": "80530"
+  },
+  {
+    "id": 495,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 183,
+    "price_per_month": "72517"
+  },
+  {
+    "id": 496,
+    "property_type": "butik",
+    "city": "Göteborg",
+    "square_meters": 86,
+    "price_per_month": "74159"
+  },
+  {
+    "id": 497,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 43,
+    "price_per_month": "96013"
+  },
+  {
+    "id": 498,
+    "property_type": "butik",
+    "city": "Malmö",
+    "square_meters": 146,
+    "price_per_month": "105396"
+  },
+  {
+    "id": 499,
+    "property_type": "lager",
+    "city": "Göteborg",
+    "square_meters": 449,
+    "price_per_month": "79941"
+  },
+  {
+    "id": 500,
+    "property_type": "kontor",
+    "city": "Malmö",
+    "square_meters": 174,
+    "price_per_month": "28518"
+  }
+]

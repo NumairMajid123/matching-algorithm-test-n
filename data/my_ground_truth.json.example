@@ -1,0 +1,60 @@
+{
+  "ground_truth": {
+    "profile_1": [
+      {"property_id": 45, "rank": 1},
+      {"property_id": 123, "rank": 2},
+      {"property_id": 67, "rank": 3},
+      {"property_id": 234, "rank": 4}
+    ],
+    "profile_2": [
+      {"property_id": 89, "rank": 1},
+      {"property_id": 156, "rank": 2},
+      {"property_id": 201, "rank": 3}
+    ],
+    "profile_3": [
+      {"property_id": 312, "rank": 1},
+      {"property_id": 445, "rank": 2},
+      {"property_id": 278, "rank": 3},
+      {"property_id": 389, "rank": 4},
+      {"property_id": 167, "rank": 5}
+    ],
+    "profile_4": [
+      {"property_id": 78, "rank": 1},
+      {"property_id": 145, "rank": 2},
+      {"property_id": 223, "rank": 3}
+    ],
+    "profile_5": [
+      {"property_id": 267, "rank": 1},
+      {"property_id": 334, "rank": 2}
+    ],
+    "profile_6": [
+      {"property_id": 412, "rank": 1},
+      {"property_id": 489, "rank": 2},
+      {"property_id": 356, "rank": 3}
+    ],
+    "profile_7": [
+      {"property_id": 178, "rank": 1},
+      {"property_id": 245, "rank": 2},
+      {"property_id": 301, "rank": 3}
+    ],
+    "profile_8": [
+      {"property_id": 456, "rank": 1},
+      {"property_id": 523, "rank": 2}
+    ],
+    "profile_9": [
+      {"property_id": 189, "rank": 1},
+      {"property_id": 267, "rank": 2},
+      {"property_id": 334, "rank": 3},
+      {"property_id": 401, "rank": 4}
+    ],
+    "profile_10": [
+      {"property_id": 112, "rank": 1},
+      {"property_id": 198, "rank": 2},
+      {"property_id": 256, "rank": 3},
+      {"property_id": 345, "rank": 4},
+      {"property_id": 423, "rank": 5}
+    ]
+  }
+}
+
+

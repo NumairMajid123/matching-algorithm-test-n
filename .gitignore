@@ -1,0 +1,18 @@
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Candidate-specific files
+data/my_ground_truth.json
+

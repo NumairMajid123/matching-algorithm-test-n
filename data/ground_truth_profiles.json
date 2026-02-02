@@ -1,0 +1,94 @@
+{
+  "profiles": [
+    {
+      "profile_id": "profile_1",
+      "profile": {
+        "property_type": "kontor",
+        "city": "Stockholm",
+        "square_meters": 200,
+        "max_price": 80000
+      }
+    },
+    {
+      "profile_id": "profile_2",
+      "profile": {
+        "property_type": "kontor",
+        "city": "Stockholm",
+        "square_meters": 150,
+        "max_price": 60000
+      }
+    },
+    {
+      "profile_id": "profile_3",
+      "profile": {
+        "property_type": "kontor",
+        "city": "Göteborg",
+        "square_meters": 300,
+        "max_price": 100000
+      }
+    },
+    {
+      "profile_id": "profile_4",
+      "profile": {
+        "property_type": "butik",
+        "city": "Stockholm",
+        "square_meters": 100,
+        "max_price": 50000
+      }
+    },
+    {
+      "profile_id": "profile_5",
+      "profile": {
+        "property_type": "butik",
+        "city": "Malmö",
+        "square_meters": 80,
+        "max_price": 40000
+      }
+    },
+    {
+      "profile_id": "profile_6",
+      "profile": {
+        "property_type": "lager",
+        "city": "Göteborg",
+        "square_meters": 500,
+        "max_price": 70000
+      }
+    },
+    {
+      "profile_id": "profile_7",
+      "profile": {
+        "property_type": "kontor",
+        "city": "Malmö",
+        "square_meters": 120,
+        "max_price": 45000
+      }
+    },
+    {
+      "profile_id": "profile_8",
+      "profile": {
+        "property_type": "lager",
+        "city": "Stockholm",
+        "square_meters": 800,
+        "max_price": 90000
+      }
+    },
+    {
+      "profile_id": "profile_9",
+      "profile": {
+        "property_type": "butik",
+        "city": "Göteborg",
+        "square_meters": 150,
+        "max_price": 60000
+      }
+    },
+    {
+      "profile_id": "profile_10",
+      "profile": {
+        "property_type": "kontor",
+        "city": "Stockholm",
+        "square_meters": 250,
+        "max_price": 90000
+      }
+    }
+  ]
+}

@@ -150,20 +150,17 @@ def evaluate_weights(weights_dict, ground_truth_matches=None):
 
 def optimize_weights():
     """
-    OPTIMIZE THIS FUNCTION!
+    Optimize weights using scipy.optimize to maximize NDCG@10.
     
-    Your task is to implement ML optimization to find
-    the best weights that maximize NDCG@10.
+    This function uses multiple optimization methods and selects the best result:
+    1. Differential Evolution - Global optimization, good for avoiding local minima
+    2. L-BFGS-B - Local optimization with bounds, faster convergence
     
-    Requirements:
-    - Use systematic optimization (not manual adjustment)
-    - Test different methods if possible
-    - Document your method
-    
-    Tips:
-    - Use scipy.optimize.differential_evolution or minimize
-    - Test different bounds for weights (e.g. 0-200)
-    - Starting values can be current BASE_WEIGHTS
+    Strategy:
+    - Weights are bounded between 0-200 to prevent extreme values
+    - Objective function is negative NDCG (since optimizers minimize)
+    - Starting point is current BASE_WEIGHTS
+    - Both methods are tried and the best result is returned
     
     Returns:
         dict: Optimized weights, e.g.:
@@ -174,22 +171,84 @@ def optimize_weights():
                 'price': 12
             }
     """
-    # TODO: Implement optimization here
-    # 
-    # Example of how you can start:
-    # from scipy.optimize import differential_evolution
-    # 
-    # def objective(weights_vector):
-    #     weights_dict = {
-    #         'property_type': weights_vector[0],
-    #         'location': weights_vector[1],
-    #         'size': weights_vector[2],
-    #         'price': weights_vector[3]
-    #     }
-    #     return -evaluate_weights(weights_dict)  # Negative because we minimize
+    from scipy.optimize import differential_evolution, minimize
+    import numpy as np
     
-    # For now: return baseline weights
-    return BASE_WEIGHTS.copy()
+    # Define bounds for each weight (0-200)
+    bounds = [(0, 200), (0, 200), (0, 200), (0, 200)]
+    
+    # Starting point from current BASE_WEIGHTS
+    x0 = [
+        BASE_WEIGHTS['property_type'],
+        BASE_WEIGHTS['location'],
+        BASE_WEIGHTS['size'],
+        BASE_WEIGHTS['price']
+    ]
+    
+    def objective(weights_vector):
+        """
+        Objective function: negative NDCG@10 (since optimizers minimize).
+        
+        Args:
+            weights_vector: [property_type, location, size, price]
+        
+        Returns:
+            float: Negative NDCG@10 (to maximize NDCG, we minimize -NDCG)
+        """
+        weights_dict = {
+            'property_type': max(0, weights_vector[0]),  # Ensure non-negative
+            'location': max(0, weights_vector[1]),
+            'size': max(0, weights_vector[2]),
+            'price': max(0, weights_vector[3])
+        }
+        ndcg = evaluate_weights(weights_dict)
+        return -ndcg  # Negative because we minimize
+    
+    print("   Trying Differential Evolution (global optimization)...")
+    # Method 1: Differential Evolution (global optimization)
+    result_de = differential_evolution(
+        objective,
+        bounds,
+        seed=42,
+        maxiter=100,
+        popsize=15,
+        tol=1e-6,
+        polish=True  # Polish result with local optimization
+    )
+    ndcg_de = -result_de.fun
+    weights_de = {
+        'property_type': max(0, int(round(result_de.x[0]))),
+        'location': max(0, int(round(result_de.x[1]))),
+        'size': max(0, int(round(result_de.x[2]))),
+        'price': max(0, int(round(result_de.x[3])))
+    }
+    print(f"   DE result: NDCG={ndcg_de:.4f}, weights={weights_de}")
+    
+    print("   Trying L-BFGS-B (local optimization)...")
+    # Method 2: L-BFGS-B (local optimization with bounds)
+    result_lbfgs = minimize(
+        objective,
+        x0,
+        method='L-BFGS-B',
+        bounds=bounds,
+        options={'maxiter': 200, 'ftol': 1e-6}
+    )
+    ndcg_lbfgs = -result_lbfgs.fun
+    weights_lbfgs = {
+        'property_type': max(0, int(round(result_lbfgs.x[0]))),
+        'location': max(0, int(round(result_lbfgs.x[1]))),
+        'size': max(0, int(round(result_lbfgs.x[2]))),
+        'price': max(0, int(round(result_lbfgs.x[3])))
+    }
+    print(f"   L-BFGS-B result: NDCG={ndcg_lbfgs:.4f}, weights={weights_lbfgs}")
+    
+    # Select the best result
+    if ndcg_de > ndcg_lbfgs:
+        print(f"   Selected Differential Evolution result (better NDCG)")
+        return weights_de
+    else:
+        print(f"   Selected L-BFGS-B result (better NDCG)")
+        return weights_lbfgs
 
 
 if __name__ == '__main__':
